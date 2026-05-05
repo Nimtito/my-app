@@ -1,3 +1,4 @@
+import BookList from "./Components/Booklist"
 import Dashboard from "./Components/Dashboard"
 import Home from "./Components/Home"
 
@@ -10,6 +11,7 @@ function App() {
     <h1>I'm learning react</h1>
     <Home/>
     <Dashboard/>
+    <BookList/>
     </>
 
   )
